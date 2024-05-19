@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...web development 
 - 🌱 I’m currently learning ...python and Java script 
 - 💞️ I’m looking to collaborate on ...IT industry 
-- 📫 How to reach me ...insta -debojyoti6711
+- 📫 How to reach me ...insta -Debojyoti 67 11 and Email debojyodutta@gmail.com
 
 <!---
 Devcode-12/Devcode-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
